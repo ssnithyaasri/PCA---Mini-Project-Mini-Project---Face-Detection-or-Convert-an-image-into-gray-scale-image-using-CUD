@@ -72,7 +72,9 @@ cv2.destroyAllWindows()
 ```
 ## OUTPUT:
 Input Image
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/71b7ee83-358f-4acb-b804-c30f8c75bab0)
+
+
 
 
 
